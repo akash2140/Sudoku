@@ -1,4 +1,4 @@
-
+#This is sodoku gui project, an amazing logger project for python geeks.
 from tkinter import *
 from tkinter import messagebox
 import random
